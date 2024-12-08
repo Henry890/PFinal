@@ -1,0 +1,15 @@
+{
+  "name": "pfinal",
+  "version": "1.0.0",
+  "description": "Proyecto de Hola Mundo con pruebas unitarias",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
+  "author": "Tu Nombre",
+  "license": "ISC"
+}
